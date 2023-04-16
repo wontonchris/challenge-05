@@ -2,6 +2,8 @@
 // the code isn't run until the browser has finished rendering all the elements
 // in the html.
 $(document).ready(function(){
+var currentDay = dayjs().format('dddd, MMMM D, YYYY');
+var currentTime = dayjs().format('h:mm A');
 
 
   
@@ -21,7 +23,6 @@ $(document).ready(function(){
       localStorage.setItem(time, text);
     });
   });
-  
   
   // TODO: Add code to apply the past, present, or future class to each time
   // block by comparing the id to the current hour. HINTS: How can the id
