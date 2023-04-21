@@ -1,14 +1,12 @@
 # 05 Third-Party APIs: Work Day Scheduler
 
 ## Description 
-Create a working calender/daily task tracker with save events for every single hour and allow the user to submit tasks for each hour of the day.
+Created a Calender/Daily Task Tracker that allows the user to submit task for each hour of the business day
 
 ## Usage
-Github Repo: 
+Github Repo: https://github.com/wontonchris/challenge-05/
 
-Live Site: 
-
-Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+Live Site: https://wontonchris.github.io/challenge-05/
 
 
 ## User Story
@@ -16,6 +14,8 @@ Create a simple calendar application that allows a user to save events for each 
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
+
+![Calendar](https://cdn.discordapp.com/attachments/1085659301005250651/1098812410351079515/2023-04-20_22_21_55-Work_Day_Scheduler.png)
 
 
 ## Acceptance Criteria
